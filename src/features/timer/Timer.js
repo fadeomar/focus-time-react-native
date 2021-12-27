@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
   },
   task: {
     color: colors.white,
-    fontWight: 'bold',
+    fontWeight: 'bold',
     textAlign: 'center',
   },
   countdown: {
